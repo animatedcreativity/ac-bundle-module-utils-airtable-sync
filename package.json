@@ -1,0 +1,20 @@
+{
+  "name": "ac-bundle-module-utils-airtable-sync",
+  "version": "0.0.2",
+  "description": "utils/airtable/sync.js: A module bundled by ac-bundle-module.",
+  "main": "utils/airtable/sync.js",
+  "scripts": {
+    "start": "node utils/airtable/sync.js"
+  },
+  "keywords": [
+    "utils/airtable/sync.js",
+    "ac-bundle-app",
+    "ac-bundle-module"
+  ],
+  "repository": {
+    "url": "https://animatedcreativity.com/code/node-js/ac-bundle-module/modules/ac-bundle-module-utils-airtable-sync/"
+  },
+  "author": "Animated Creativity",
+  "license": "MIT",
+  "dependencies": {}
+}
